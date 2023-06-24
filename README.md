@@ -1,7 +1,9 @@
-<p align="center">
+<div align="center">
+
   <a href="https://github.com/icanseetime/infinite-dad-jokes" style="font-size: 2rem">
     🤣
   </a>
+  <h2>Infinite dad jokes</h2>
 
   <p align="center">
     An infinite supply of dad jokes. 
@@ -15,20 +17,20 @@
     ·
     <a href="https://github.com/icanseetime/infinite-dad-jokes/issues/new">Request Feature</a>
   </p>
-</p>
+</div>
 
-## About the project
+### About the project
 
 This project uses the [icanhazdadjoke API](https://icanhazdadjoke.com) to fetch dad jokes, while the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) provides an infinite scrolling experience.
 
-## Technologies
+### Technologies
 
 -   HTML
 -   CSS
 -   JavaScript
 -   [icanhazdadjoke API](https://icanhazdadjoke.com)
 
-## Contact
+### Contact
 
 Isak - imrg@protonmail.com
 
